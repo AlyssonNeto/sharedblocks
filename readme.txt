@@ -1,3 +1,6 @@
+NOTE: This module has moved to Drupal.org (http://drupal.org/project/sharedblocks). Please use that version and post any bugs or issues there.
+
+
 The Shared Blocks Module is awesome!
 
 If you have a main site with blocks that you want to syndicate across several
